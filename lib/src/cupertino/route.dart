@@ -15,7 +15,7 @@ import 'package:flutter/cupertino.dart'
     show CupertinoUserInterfaceLevel, CupertinoUserInterfaceLevelData;
 import 'package:flutter/cupertino.dart' show CupertinoLocalizations;
 
-const double _kBackGestureWidth = 20.0;
+const double _kBackGestureWidth = 0.0;
 const double _kMinFlingVelocity = 1.0; // Screen widths per second.
 
 // An eyeballed value for the maximum time it takes for a page to animate forward
